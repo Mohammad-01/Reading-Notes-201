@@ -53,6 +53,16 @@ Example
 
 ![fig3](https://github.com/Mohammad-01/reading-notes/raw/main/ex.png)
 
+### loops 
+Loops come in a variety of shapes and sizes, but they all perform the same thing: they repeat an activity a certain number of times. Loops come in a variety of shapes and sizes, but they all perform the same thing: they repeat an activity a certain number of times.
+
+### All kinds of loops 
+* while  
+* do/while 
+* for 
+* for/in 
+* for/of 
+* 
 ## Links 
 To Know more about all the colors that supported [**(check this link)**](https://www.w3schools.com/cssref/css_colors.asp)
 
