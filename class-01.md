@@ -58,14 +58,13 @@ Semantic HTML refers to the use of HTML markup to reinforce the semantics, or me
 <li>Flying Robots</li>
 </ol>
 
----
 ## What's the difference between HTML and JavaScript?
 * HTML is a markup language as we say that provides the basic framework of a website, whereas JavaScript is a more advanced programming language for creating dynamic web pages. HTML is rendered entirely on the server, as opposed to client-side programming.
 ## Why we use HTML with JavaScript?
 * JavaScript makes HTML pages more dynamic and interactive.
 ## Where JavaScript is used in HTML?
 * Between the <script> and </script> tags in HTML, JavaScript code is injectet in the end of HTML code at usual
----
+
 ## What Does Web Mean? 
 * The World Wide Web, also known as the Web, is a subset of the Internet that consists of pages that may be viewed using a Web browser. Many individuals mistakenly believe that the Web and the Internet are the same thing and confuse the two. The term Internet, on the other hand, refers to the global network of servers that allows people to share information over the Internet. So, while the Web makes up a substantial part of the Internet, they are not the same thing.
 
@@ -90,7 +89,6 @@ Create a number of small-scale design concepts based on your basic thoughts.
  
 5. Collect feedback
 Present your ideas to as many people as possible, including friends, instructors, experts, and anybody else you believe can provide meaningful feedback.
-
 
 6. Enhance
 Consider all of your suggestions and evaluate whether or not they should be implemented. Taking solutions back through the Design Process to enhance and explain them is frequently beneficial.
