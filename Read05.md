@@ -17,8 +17,4 @@
 ### CSS colors
 There are 140 colors supported by the web browsers.
 
-![fig2](c.png)
-
-Example 
-
-![fig3](ex.png)
+![fig1](https://make.wordpress.org/core/files/2021/02/wordpress-admin-color-palette-WP57.png)
