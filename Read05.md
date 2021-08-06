@@ -1,6 +1,8 @@
 ## How to add image in HTML?
 1- Copy the image's URL into the address bar.
-2- Next, open your index.html file and paste the image code into it. img src=”(insert your image URL here)”>
+
+2- Next, open your index.html file and paste the image code into it. img src=”(insert your image URL here)”>\
+
 3- Save the HTML file to your computer. The webpage with your freshly added image will appear the next time you open it.
 
 ## What kinds of photos can you use in HTML?
@@ -17,8 +19,4 @@
 ### CSS colors
 There are 140 colors supported by the web browsers.
 
-![fig2](c.png)
-
-Example 
-
-![fig3](ex.png)
+![fig1](https://make.wordpress.org/core/files/2021/02/wordpress-admin-color-palette-WP57.png)
