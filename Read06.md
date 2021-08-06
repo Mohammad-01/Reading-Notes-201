@@ -1,9 +1,6 @@
-## What is prblem domain? 
-*All information that identifies the problem and constrains the solution is referred to as the problem domain in engineering (the constraints being part of the problem). It contains the problem owner's desired outcomes, the context in which the problem occurs, and any rules defining vital functions or other characteristics of any solution product.
-It depicts both the problem and the context in which a solution will have to work.
-
-## What's the problem domain?
-*The phrase "problem domain" refers to the area in which real-world objects and concepts relating to the problem that the system is being created to solve are included. The objective of domain modeling is to find "objects" (really classes) that represent those items and concepts.
+## What is the prblem domain? 
+* All information that identifies the problem and constrains the solution is referred to as the problem domain in engineering (the constraints being part of the problem). It contains the problem owner's desired outcomes, the context in which the problem occurs, and any rules defining vital functions or other characteristics of any solution product.
+It depicts both the problem and the context in which a solution will have to work. The phrase "problem domain" refers to the area in which real-world objects and concepts relating to the problem that the system is being created to solve are included. The objective of domain modeling is to find "objects" (really classes) that represent those items and concepts.
 
 ## What are domains in software engineering?
 * A domain is a computer program's specific topic area. It's a word used in the field of software development. Formally, it denotes the subject of a certain programming project, whether it is defined narrowly or broadly.
