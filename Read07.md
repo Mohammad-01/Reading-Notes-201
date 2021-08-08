@@ -29,3 +29,20 @@ They can contain any HTML element, including text, graphics, lists, and other ta
 < tbody >	Groups the body content in a table
 
 < tfoot >	Groups the footer content in a table
+
+
+## What is constructor in JavaScript?
+* Functions can be used as templates to create other objects in JavaScript. These functions are known as constructor functions, and they have unique qualities not seen in conventional functions.
+
+## Why we use constructor function?
+* A constructor method is a particular method of a class that is used to create and initialize objects of that class.
+
+## How to call constructor in JavaScript?
+* Constructors can only be called with the new keyword, and the new keyword can only be used to call constructors. Unfortunately, the situation is not as stringent with javascript. As a result, calling a function that isn't intended to be a constructor will not result in an error.
+
+## Can Constructor be private?
+* Yes. A private constructor is an option for a class. Private constructors can be found in even abstract classes. We prevent the class from being instantiated as well as subclassing by keeping the constructor secret.
+
+## JavaScript Object Constructors example:
+![fig2](JOC.Ex.png)
+
