@@ -5,7 +5,7 @@
 * CSS layout types: Fixed, Elastic, and Fluid.
 
 
-* Website divide to 5 parts on CSS:
+## Website divide to 5 parts on CSS:
 ![fig1](WD.png)
 
 

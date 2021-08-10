@@ -1,3 +1,6 @@
+## What is OOP?
+* Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects," which can hold data and code in the form of fields (also known as attributes or properties) and procedures (often known as methods).
+
 ## What is HTML table tag?
 * A Web page's HTML structure for constructing rows and columns. The Table tag specifies the overall table, whereas the Table Row (TR) tag specifies how each row is constructed. The real data is defined by the Table Data (TD) tag. Tables were commonly utilized for almost every element on the page prior to HTML5.
 
@@ -30,7 +33,6 @@ They can contain any HTML element, including text, graphics, lists, and other ta
 
 < tfoot >	Groups the footer content in a table
 
-
 ## What is constructor in JavaScript?
 * Functions can be used as templates to create other objects in JavaScript. These functions are known as constructor functions, and they have unique qualities not seen in conventional functions.
 
@@ -45,4 +47,3 @@ They can contain any HTML element, including text, graphics, lists, and other ta
 
 ## JavaScript Object Constructors example:
 ![fig2](JOC.Ex.png)
-
